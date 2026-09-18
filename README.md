@@ -18,3 +18,5 @@ A data analytics project focused on analyzing **customer shopping behavior and p
 ### 🎯 Objective
 
 To transform customer transaction data into **actionable business insights** that can support data-driven decision-making.
+
+Dashboard Screenshot:-https://github.com/NavinkData/Customer_Behaviour_Shopping_Analysis/blob/main/customer_behavior%20dashboard.png
